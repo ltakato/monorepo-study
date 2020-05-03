@@ -1,21 +1,18 @@
 {
   "name": "takato-ds-tokens",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "tokens for design system",
   "author": "takato <ltakato@hotmail.com>",
   "homepage": "https://github.com/ltakato/monorepo-study#readme",
   "license": "ISC",
   "main": "src/index.js",
-  "directories": {
-  },
-  "files": [
-  ],
+  "directories": {},
+  "files": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ltakato/monorepo-study.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "bugs": {
     "url": "https://github.com/ltakato/monorepo-study/issues"
   }
